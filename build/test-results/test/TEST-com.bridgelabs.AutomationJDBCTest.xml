@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabs.AutomationJDBCTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-03T17:14:29" hostname="DESKTOP-NAVVCOA" time="0.017">
+  <properties/>
+  <testcase name="getTracksTableData_Successfully" classname="com.bridgelabs.AutomationJDBCTest" time="0.017"/>
+  <system-out><![CDATA[12Chz98pHFMPJEknJQMWvI muse 57StehxjgYCGJe5E7RGjAM
+4b3t4n2VPy3swNN3STuUTc 24 Preludes,Op.28:Prelude No.2 in A Minor 5gD1WUGcJmORRGY1et95Dp
+512ojhOuo1ktJprKbVcKyQ Tredje rikets knarkande granskas 0QK5YzWnxkJQF6w6hKqwax
+6D60klaHqbCl9ySc8VcRss stronger 57StehxjgYCGJe5E7RGjAM
+7 Strange 4
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
